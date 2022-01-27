@@ -1,0 +1,22 @@
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: justify;
+}
+
+.header {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+h1 {
+    font-weight: bold;
+    line-height: 0.7;
+}
+
+h3  {
+    font-style: italic;
+    line-height: 0.7;
+}
+
