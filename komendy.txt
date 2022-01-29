@@ -1,0 +1,3 @@
+*Run html-validate for all html Files*
+
+npm exec html-validate *.html
